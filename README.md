@@ -1,4 +1,10 @@
 # EXPRESS TYPESCRIPT
 
 ## Version
-- node 18.1
+- node v18.1.0
+
+## Installations
+- npm init -y
+- npm install typescript -D
+- npm run tsc -- --init
+- npm install express -E
