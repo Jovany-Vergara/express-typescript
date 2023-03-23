@@ -9,3 +9,7 @@
 - npm run tsc -- --init
 - npm install express -E
 - npm install @types/express -D
+
+## Run
+- npm Run (visualizar scrips)
+- npm start (ejecutar app)
