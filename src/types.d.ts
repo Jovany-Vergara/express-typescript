@@ -11,4 +11,4 @@ export interface DiaryEntry {
 
 // export type NonSensitiveInfoDiaryEntry = Pick<DiaryEntry, 'id' | 'date' | 'weather' | 'visibility'>
 
-export type NonSensitiveInfoDiaryEntry = Omit<DiaryEntry, 'comoment'>
+export type NonSensitiveInfoDiaryEntry = Omit<DiaryEntry, 'comment'>
